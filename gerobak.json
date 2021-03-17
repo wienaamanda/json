@@ -1,0 +1,118 @@
+{
+  "previous": "Some URL for previous page",
+  "next": "Some URL for next page",
+  "results": [
+    {
+      "verified": true, 
+      "namaGerobak": "Aisha Dunn"
+    }, 
+    {
+      "verified": false, 
+      "namaGerobak": "Mcdaniel Gilliam"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Annmarie Mccoy"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Slater Pruitt"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Moss Vazquez"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Miles Rios"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Tillman Alvarado"
+    }, 
+    {
+      "verified": false, 
+      "namaGerobak": "Luisa Fuller"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Dennis Caldwell"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Norman Gonzalez"
+    }, 
+    {
+      "verified": false, 
+      "namaGerobak": "Chandra Marquez"
+    }, 
+    {
+      "verified": false, 
+      "namaGerobak": "Marina Head"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Dianne Hartman"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Fleming Justice"
+    }, 
+    {
+      "verified": false, 
+      "namaGerobak": "Davidson Leach"
+    }, 
+    {
+      "verified": false, 
+      "namaGerobak": "Brock Nicholson"
+    }, 
+    {
+      "verified": false, 
+      "namaGerobak": "Rosetta Moore"
+    }, 
+    {
+      "verified": false, 
+      "namaGerobak": "Leah Hart"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Cristina Chan"
+    }, 
+    {
+      "verified": false, 
+      "namaGerobak": "Gardner Olson"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Caldwell Morris"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Burris Fletcher"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Richardson Wolfe"
+    }, 
+    {
+      "verified": false, 
+      "namaGerobak": "Juana Sharp"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Sloan Walters"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Ada Riddle"
+    }, 
+    {
+      "verified": false, 
+      "namaGerobak": "Latasha Flores"
+    }, 
+    {
+      "verified": true, 
+      "namaGerobak": "Suzanne Clarke"
+    }
+  ]
+}
