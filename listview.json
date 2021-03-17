@@ -1,0 +1,23 @@
+{
+    "count": 4,
+    "previous": "Some URL for previous page",
+    "next": "Some URL for next page",
+    "results": [
+        {
+          "username": "Emma Spoon",
+          "email": "Emma.Spoon@gmail.com",
+        },
+        {
+          "username": "James Winter",
+          "email": "James.Winter@gmail.com",
+        },
+        {
+          "username": "Alex Summer",
+          "email": "Alex.Summer@gmail.com",
+        },
+        {
+          "username": "Jenna Hollywood",
+          "email": "Jenna.Hollywood@gmail.com",
+        },
+      ]
+}
