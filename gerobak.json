@@ -3,116 +3,88 @@
   "next": "Some URL for next page",
   "results": [
     {
-      "verified": true, 
-      "namaGerobak": "Aisha Dunn"
-    }, 
+      "verified": false,
+      "namaGerobak": "Alvarez Nunez",
+      "rating": 0,
+      "jarak": 0
+    },
     {
-      "verified": false, 
-      "namaGerobak": "Mcdaniel Gilliam"
-    }, 
+      "verified": false,
+      "namaGerobak": "Ivy Wells",
+      "rating": 1,
+      "jarak": 1
+    },
     {
-      "verified": true, 
-      "namaGerobak": "Annmarie Mccoy"
-    }, 
+      "verified": false,
+      "namaGerobak": "Cherry Bowers",
+      "rating": 2,
+      "jarak": 2
+    },
     {
-      "verified": true, 
-      "namaGerobak": "Slater Pruitt"
-    }, 
+      "verified": true,
+      "namaGerobak": "Thelma Vincent",
+      "rating": 3,
+      "jarak": 3
+    },
     {
-      "verified": true, 
-      "namaGerobak": "Moss Vazquez"
-    }, 
+      "verified": false,
+      "namaGerobak": "Sherri Rodriguez",
+      "rating": 4,
+      "jarak": 4
+    },
     {
-      "verified": true, 
-      "namaGerobak": "Miles Rios"
-    }, 
+      "verified": true,
+      "namaGerobak": "Mathews Snow",
+      "rating": 5,
+      "jarak": 5
+    },
     {
-      "verified": true, 
-      "namaGerobak": "Tillman Alvarado"
-    }, 
+      "verified": false,
+      "namaGerobak": "Lynch Ford",
+      "rating": 6,
+      "jarak": 6
+    },
     {
-      "verified": false, 
-      "namaGerobak": "Luisa Fuller"
-    }, 
+      "verified": false,
+      "namaGerobak": "Mae Battle",
+      "rating": 7,
+      "jarak": 7
+    },
     {
-      "verified": true, 
-      "namaGerobak": "Dennis Caldwell"
-    }, 
+      "verified": false,
+      "namaGerobak": "Moon Gonzales",
+      "rating": 8,
+      "jarak": 8
+    },
     {
-      "verified": true, 
-      "namaGerobak": "Norman Gonzalez"
-    }, 
+      "verified": true,
+      "namaGerobak": "Drake Evans",
+      "rating": 9,
+      "jarak": 9
+    },
     {
-      "verified": false, 
-      "namaGerobak": "Chandra Marquez"
-    }, 
+      "verified": true,
+      "namaGerobak": "Chan Giles",
+      "rating": 10,
+      "jarak": 10
+    },
     {
-      "verified": false, 
-      "namaGerobak": "Marina Head"
-    }, 
+      "verified": false,
+      "namaGerobak": "Sheppard Bonner",
+      "rating": 11,
+      "jarak": 11
+    },
     {
-      "verified": true, 
-      "namaGerobak": "Dianne Hartman"
-    }, 
+      "verified": false,
+      "namaGerobak": "Sharp Bolton",
+      "rating": 12,
+      "jarak": 12
+    },
     {
-      "verified": true, 
-      "namaGerobak": "Fleming Justice"
-    }, 
-    {
-      "verified": false, 
-      "namaGerobak": "Davidson Leach"
-    }, 
-    {
-      "verified": false, 
-      "namaGerobak": "Brock Nicholson"
-    }, 
-    {
-      "verified": false, 
-      "namaGerobak": "Rosetta Moore"
-    }, 
-    {
-      "verified": false, 
-      "namaGerobak": "Leah Hart"
-    }, 
-    {
-      "verified": true, 
-      "namaGerobak": "Cristina Chan"
-    }, 
-    {
-      "verified": false, 
-      "namaGerobak": "Gardner Olson"
-    }, 
-    {
-      "verified": true, 
-      "namaGerobak": "Caldwell Morris"
-    }, 
-    {
-      "verified": true, 
-      "namaGerobak": "Burris Fletcher"
-    }, 
-    {
-      "verified": true, 
-      "namaGerobak": "Richardson Wolfe"
-    }, 
-    {
-      "verified": false, 
-      "namaGerobak": "Juana Sharp"
-    }, 
-    {
-      "verified": true, 
-      "namaGerobak": "Sloan Walters"
-    }, 
-    {
-      "verified": true, 
-      "namaGerobak": "Ada Riddle"
-    }, 
-    {
-      "verified": false, 
-      "namaGerobak": "Latasha Flores"
-    }, 
-    {
-      "verified": true, 
-      "namaGerobak": "Suzanne Clarke"
+      "verified": false,
+      "namaGerobak": "Aline Thompson",
+      "rating": 13,
+      "jarak": 13
     }
   ]
 }
