@@ -1,10 +1,5 @@
 [
     {
-    "namaGerobak": "Nama Gerobak",
-    "rating": "Rating",
-    "jarak": "Jarak"
-    },
-    {
       "namaGerobak": "Alvarez Nunez",
       "rating": "0",
       "jarak": "0"
@@ -28,5 +23,15 @@
       "namaGerobak": "Sherri Rodriguez",
       "rating": "4",
       "jarak": "4"
+    },
+    {
+      "namaGerobak": "Mathews Snow",
+      "rating": "5",
+      "jarak": "5"
+    },
+    {
+      "namaGerobak": "Lynch Ford",
+      "rating": "6",
+      "jarak": "6"
     }
 ]
