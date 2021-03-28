@@ -1,42 +1,42 @@
 [
     {
-      "namaGerobak": "Alvarez Nunez",
-      "rating": "0",
-      "jarak": "0"
-    },
-    {
-      "namaGerobak": "Ivy Wells",
-      "rating": "1",
-      "jarak": "1"
-    },
-    {
-      "namaGerobak": "Cherry Bowers",
-      "rating": "2",
-      "jarak": "2"
-    },
-    {
-      "namaGerobak": "Thelma Vincent",
-      "rating": "3",
-      "jarak": "3"
-    },
-    {
-      "namaGerobak": "Sherri Rodriguez",
-      "rating": "4",
-      "jarak": "4"
-    },
-    {
-      "namaGerobak": "Mathews Snow",
+      "namaGerobak": "Sate Padang Mba Nadia",
       "rating": "5",
-      "jarak": "5"
+      "jarak": "0.6 km"
     },
     {
-      "namaGerobak": "Lynch Ford",
-      "rating": "6",
-      "jarak": "6"
+      "namaGerobak": "Bubur Ayam Kang Faiz",
+      "rating": "4",
+      "jarak": "0.8 km"
     },
     {
-      "namaGerobak": "Mae Battle",
-      "rating": "7",
-      "jarak": "7"
+      "namaGerobak": "Telur Gulung Milenial",
+      "rating": "3",
+      "jarak": "1.0 km"
+    },
+    {
+      "namaGerobak": "Bubur Bakar Kekinian",
+      "rating": "4",
+      "jarak": "1.2 km"
+    },
+    {
+      "namaGerobak": "Mie Ayam Kepanasan",
+      "rating": "5",
+      "jarak": "2.0 km"
+    },
+    {
+      "namaGerobak": "Mie Ayam Kedinginan",
+      "rating": "5",
+      "jarak": "0.2 km"
+    },
+    {
+      "namaGerobak": "Cilor Milenial",
+      "rating": "5",
+      "jarak": "0.4 km"
+    },
+    {
+      "namaGerobak": "Cilung",
+      "rating": "5",
+      "jarak": "0.8 km"
     }
 ]
