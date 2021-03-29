@@ -1,42 +1,41 @@
-[
-    {
-      "namaGerobak": "Sate Padang Mba Nadia",
-      "rating": "5",
-      "jarak": "0.6 km"
-    },
-    {
-      "namaGerobak": "Bubur Ayam Kang Faiz",
-      "rating": "4",
-      "jarak": "0.8 km"
-    },
-    {
-      "namaGerobak": "Telur Gulung Milenial",
-      "rating": "3",
-      "jarak": "1.0 km"
-    },
-    {
-      "namaGerobak": "Bubur Bakar Kekinian",
-      "rating": "4",
-      "jarak": "1.2 km"
-    },
-    {
-      "namaGerobak": "Mie Ayam Kepanasan",
-      "rating": "5",
-      "jarak": "2.0 km"
-    },
-    {
-      "namaGerobak": "Mie Ayam Kedinginan",
-      "rating": "5",
-      "jarak": "0.2 km"
-    },
-    {
-      "namaGerobak": "Cilor Milenial",
-      "rating": "5",
-      "jarak": "0.4 km"
-    },
-    {
-      "namaGerobak": "Cilung",
-      "rating": "5",
-      "jarak": "0.8 km"
-    }
-]
+{
+  "namaGerobak": "Sate Padang Mba Nadia",
+  "rating": "5",
+  "jarak": "0.6 km"
+},
+{
+  "namaGerobak": "Bubur Ayam Kang Faiz",
+  "rating": "4",
+  "jarak": "0.8 km"
+},
+{
+  "namaGerobak": "Telur Gulung Milenial",
+  "rating": "3",
+  "jarak": "1.0 km"
+},
+{
+  "namaGerobak": "Bubur Bakar Kekinian",
+  "rating": "4",
+  "jarak": "1.2 km"
+},
+{
+  "namaGerobak": "Mie Ayam Kepanasan",
+  "rating": "5",
+  "jarak": "2.0 km"
+},
+{
+  "namaGerobak": "Mie Ayam Kedinginan",
+  "rating": "5",
+  "jarak": "0.2 km"
+},
+{
+  "namaGerobak": "Cilor Milenial",
+  "rating": "5",
+  "jarak": "0.4 km"
+},
+{
+  "namaGerobak": "Cilung",
+  "rating": "5",
+  "jarak": "0.8 km"
+}
+
