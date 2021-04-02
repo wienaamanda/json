@@ -1,0 +1,11 @@
+[
+    {
+        "id": 164, 
+        "namaGerobak": "lalalal", 
+        "fotoGerobak": "linkblablabla", 
+        "tipeBarang": "makanan", 
+        "idUser": 3, 
+        "statusAntar": true, 
+        "statusJemput": false
+    },
+]
